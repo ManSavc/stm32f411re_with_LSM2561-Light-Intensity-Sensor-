@@ -1,4 +1,4 @@
-There I show how to read light sensor with CubeIde.Sensor have 2 work mode : Normal-Mode 100kHz and Fast-Mode 400kHz, connect VCC, GND(3.3V!) and I2C,
+There I show how to read light sensor with CubeIde.Sensor have 2 work mode : Standart-Mode 100kHz and Fast-Mode 400kHz, connect VCC, GND(3.3V!) and I2C,
 just copy this code and you will see how this(tsl2561)sensor works.There I add a video  
 
 https://github.com/user-attachments/assets/2be87902-cf9e-40f7-8e1a-8b2c0973afce
